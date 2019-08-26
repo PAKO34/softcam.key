@@ -1,3 +1,13 @@
+UPDATED 26.08.2019 GMT 06:00
+
+ULC:   : http://www.satsupreme.com/ulc.php/6-Softcam
+----------------------------------------------------------------------------------------------------------------------------------------------------
+ULC:   : http://www.super-sat.net/index.php?&direction=0&order=mod&directory=SOFTCAM%20KEY
+----------------------------------------------------------------------------------------------------------------------------------------------------
+ULC:   : http://crosat.us/upload/index.php?&direction=0&order=mod&directory=SOFTCAM%20KEY
+
+
+
 # softcam.key
 softcam.key for sat receivers and dvb-s,s2,s2x 
 sat tv cards
