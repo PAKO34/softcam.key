@@ -1,10 +1,10 @@
-UPDATED 26.08.2019 GMT 06:00
+UPDATED 28.08.2019 GMT 07:00 A.M.
 
-ULC:   : http://www.satsupreme.com/ulc.php/6-Softcam
-----------------------------------------------------------------------------------------------------------------------------------------------------
-ULC:   : http://www.super-sat.net/index.php?&direction=0&order=mod&directory=SOFTCAM%20KEY
-----------------------------------------------------------------------------------------------------------------------------------------------------
-ULC:   : http://crosat.us/upload/index.php?&direction=0&order=mod&directory=SOFTCAM%20KEY
+ULC : http://www.satsupreme.com/ulc.php/6-Softcam
+----------------------------------------------------------------------------------------------------------------------------------------
+ULC : http://www.super-sat.net/index.php?&direction=0&order=mod&directory=SOFTCAM%20KEY
+----------------------------------------------------------------------------------------------------------------------------------------
+ULC : http://crosat.us/upload/index.php?&direction=0&order=mod&directory=SOFTCAM%20KEY 
 
 
 
