@@ -27,8 +27,7 @@ powervu
 1.Astra 4A / SES-5 @ 4.8° East
 *1.ARQIVA
  2.SISLINK
- 3.DISCOVERY EUROPE
- 4.DISCOVERY NETWORK
+ 3...
  
  
 2.Eutelsat 9B @ 9° East
